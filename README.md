@@ -54,4 +54,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Shein Scraper, you can seamlessly gather public data from any Shein web page. Retrieve the essential product details like fabric type, size availability, or customer ratings, to study the fashion industry trends and outperform your competitors. If you need any assistance, feel free to reach out to our dedicated support team via live chat or reach us at our email hello@oxylabs.io.
+With our Shein Scraper, you can seamlessly gather public data from any Shein web page. Retrieve the essential product details like fabric type, size availability, or customer ratings, to study the fashion industry trends and outperform your competitors. If you need any assistance, feel free to reach out to our dedicated support team via live chat or reach us at our email support@oxylabs.io.
