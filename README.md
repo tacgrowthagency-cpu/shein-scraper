@@ -2,7 +2,7 @@
 
 [![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=shein-scraper-github&transaction_id=102f49063ab94276ae8f116d224b67)
 
-[![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
+[![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-tiktok-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
 Oxylabs [Shein Scraper](https://oxylabs.io/products/scraper-api/ecommerce/shein?utm_source=github&utm_medium=repositories&utm_campaign=product) (part of all-in-one Web Scraper API) is a real-time data gathering solution that uses a fast-adapting infrastructure for effortless Shein product data extraction. It combines **automated proxy management, unblocking, and parsing** to collect structured data from any public website at scale.
 
